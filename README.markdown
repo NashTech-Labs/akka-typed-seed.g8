@@ -1,4 +1,8 @@
-A [Giter8][g8] template for showcasing the use of new akka typed API!
+# Akka Typed API Example
+---
+A [Giter8][g8] template for showcasing the use of new **Akka Typed API**
+
+Lack of type-safety in the Akka actor programming model has been lamented for a long time. Lately, Akka team have focused work on Akka Typed in an attempt to bring type-safety to the world of actors. This is an example showcasing the use of new Akka Typed API along with the differences between typed and untyped actors.
 
 Template license
 ----------------
